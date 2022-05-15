@@ -3,13 +3,13 @@
 
 Telegram bot to anonymous share any Telegram Content and get the shareable link inside Telegram based on Pyrogram Library. 
 
-##Features:
+#### Features:
 
 ✅ Generate shareable link for any telegram content
 
 ✅ Realised bot inline mode and all its features
 
-##Supported content types:
+#### Supported content types:
 ✏️ Text
 
 🎥 Video
