@@ -1,0 +1,12 @@
+{
+    "project_channel" : "Project Channel",
+    "about" : "I'm ZKS Share IT!\nYou can anonymous share any telegram files and get the sharing link using this bot!\n\n\uD83D\uDCA1Just send me something!\uD83D\uDCA1\n\n/help for more details...",
+    "instant_share" : "Send content that will be instant shared to ur previous chat",
+    "error" : "Error: [Message does not exist]\n/help for more details...",
+    "info" : "Supported file types:\n- Text✏️\n\n- Video\uD83C\uDFA5\n- Audio\uD83C\uDFB5\n- Photo\uD83D\uDCF7\n- Document\uD83D\uDCC1\n- Sticker\uD83D\uDDBC\n- GIF\uD83C\uDF9E\n- Voice note\uD83C\uDFA4\n- Video note\uD83D\uDD18\n- Media groups(albums)\uD83D\uDDC2\n If bot didn't respond, contact @CREATOR_USERNAME",
+    "destination" : "Click to choose conversation:",
+    "instant_share_banner" : "⚡Instant Share⚡",
+    "description_help" : "\n\uD83D\uDCA1you can set a caption by a double space.\uD83D\uDCA1",
+    "caption": "Сaption",
+    "hiden_text" : "Hiden text"
+}
